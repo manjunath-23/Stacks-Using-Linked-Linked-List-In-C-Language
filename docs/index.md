@@ -2,7 +2,7 @@
 
 A linked list is a linear data structure, in which the elements are not stored at contiguous memory locations. The elements in a linked list are linked using pointers as shown in the below image:
 
-## Here is the Detailed Explination of the Stacks Using Linked List: https://bit.ly/3pco8B1
+## Here is the Detailed Explination of the Stacks Using Linked List: [https://bit.ly/3pco8B1]
 You can use the [editor on GitHub](https://github.com/manjunath-23/Stacks-Using-Linked-Linked-List-In-C-Language.c/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
 ### Markdown
